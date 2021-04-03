@@ -1,0 +1,32 @@
+[
+    {
+        "ten":"Nguyen Van A",
+        "tuoi":20,
+        "toan": 6,
+        "tiengAnh":7,
+        "lapTrinh":8,
+        "diemTB": null,
+        "totNghiep": null,
+        "lienLac": {"email":"abc@gmail.com","phone":"0999.000.001"}
+    }
+    {
+        "ten":"Nguyen Van B",
+        "tuoi":20,
+        "toan": 5,
+        "tiengAnh":9,
+        "lapTrinh":8,
+        "diemTB": null,
+        "totNghiep": null,
+        "lienLac": {"email":"bcd@gmail.com","phone":"0999.000.002"}
+    }
+    {
+        "ten":"Nguyen Van C",
+        "tuoi":20,
+        "toan": 3,
+        "tiengAnh":10,
+        "lapTrinh":6,
+        "diemTB": null,
+        "totNghiep": null,
+        "lienLac": {"email":"cde@gmail.com","phone":"0999.000.003"}
+    }
+]
