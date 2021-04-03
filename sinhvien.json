@@ -8,7 +8,7 @@
         "diemTB": null,
         "totNghiep": null,
         "lienLac": {"email":"abc@gmail.com","phone":"0999.000.001"}
-    }
+    },
     {
         "ten":"Nguyen Van B",
         "tuoi":20,
@@ -18,7 +18,7 @@
         "diemTB": null,
         "totNghiep": null,
         "lienLac": {"email":"bcd@gmail.com","phone":"0999.000.002"}
-    }
+    },
     {
         "ten":"Nguyen Van C",
         "tuoi":20,
